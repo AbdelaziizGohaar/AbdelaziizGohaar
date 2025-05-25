@@ -57,15 +57,16 @@
 
 ---
 
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelazizmgohar)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelaziizGohaar&show_icons=true&theme=default" alt="AbdelaziizGohaar" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelaziizGohaar&layout=compact" alt="AbdelaziizGohaar" />
 </p>
+
+---
+
+  <!-- Snake -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
