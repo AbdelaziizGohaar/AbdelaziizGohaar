@@ -60,9 +60,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelaziizGohaar&show_icons=true&theme=default" alt="AbdelaziizGohaar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelaziizGohaar&layout=compact" alt="AbdelaziizGohaar" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdelaziizGohaar&show_icons=true&theme=default" alt="AbdelaziizGohaar" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelaziizGohaar&hide_border=true" alt="GitHub Streak"/>
 </p>
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelaziizGohaar&layout=compact" alt="AbdelaziizGohaar" />
+</p>
+
 
 ---
 
