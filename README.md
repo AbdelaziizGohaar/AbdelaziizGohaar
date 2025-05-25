@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm  Abdelaziz Gohar </h1>
+<h1 align="center">Hi 👋, I'm Abdelaziz Gohar</h1>
 <h3 align="center">Software Engineer | Passionate about Web Development & Open Source</h3>
 
 ---
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 
-- 💻 I'm a software engineer with a focus on **Java**, **JavaScript**, **Python** and **open source technologies**
-- 🎓 **Computer Science - Future Universty** **ITI 9-Month Scholarship – Open Source Application Development Track**
-- 🌱 Currently expanding my expertise in **NodeJS**,**NestJS**,**Laravel**,**Django**,**Ruby On Rails**
+- 💻 I'm a software engineer with a focus on **Java**, **JavaScript**, **Python**, and **open source technologies**
+- 🎓 **B.Sc. in Computer Science – Future University**  
+- 🎓 **ITI 9-Month Scholarship – Open Source Application Development Track**
+- 🌱 Currently expanding my expertise in **Node.js**, **NestJS**, **Laravel**, **Django**, and **Ruby on Rails**
 - 🚀 Passionate about building clean, scalable applications and solving real-world problems
-- 📫 How to reach me: [Abdelaziz-Gohar](https://www.linkedin.com/in/abdelazizmgohar/)
+- 📫 How to reach me: [LinkedIn – Abdelaziz Gohar](https://www.linkedin.com/in/abdelazizmgohar/)
 
 ---
 
